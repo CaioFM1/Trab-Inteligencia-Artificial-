@@ -233,12 +233,3 @@ Este projeto demonstra como técnicas básicas de Machine Learning podem ser apl
 **Instituição**: [Nome da universidade/curso]  
 **Data**: Setembro 2025
 
----
-
-**INSTRUÇÕES FINAIS:**
-- Mantenha rigor científico em todas as seções
-- Use citações apropriadas (mesmo que hipotéticas)
-- Inclua análise crítica das limitações
-- Destaque as contribuições originais
-- Sugira direções futuras de pesquisa
-- Assegure-se de que o artigo seja informativo e bem estruturado
